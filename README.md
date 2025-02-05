@@ -1,6 +1,8 @@
 
-Asif Ali Khoso
-<!DOCTYPE html>
+Asif Ali khoso
+
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
